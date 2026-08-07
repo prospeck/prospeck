@@ -17,13 +17,20 @@ model quality and software reliability are treated as one problem.
 
 ## Technical skills
 
-| Area | Technologies |
-| --- | --- |
-| **Programming** | Python, SQL |
-| **Generative AI & Agentic Systems** | RAG, AI agents, LangChain, LangGraph, MCP, Ollama, vLLM, prompt engineering, LLM evaluation with DeepEval and RAGAS |
-| **Machine Learning & Computer Vision** | PyTorch, TensorFlow, Scikit-learn, OpenCV, Ultralytics YOLO, OpenCLIP |
-| **MLOps & Cloud** | Docker, Kubernetes, Kubeflow, KServe, GitHub Actions, MLflow, AWS EC2, S3, ECR and SageMaker |
-| **APIs, Databases & Retrieval** | FastAPI, SQLAlchemy, PostgreSQL, MongoDB, ChromaDB, FAISS, BM25 |
+**Programming**<br>
+`Python` `SQL`
+
+**Generative AI & Agentic Systems**<br>
+`RAG` `AI Agents` `LangChain` `LangGraph` `MCP` `Ollama` `vLLM` `Prompt Engineering` `DeepEval` `RAGAS`
+
+**Machine Learning & Computer Vision**<br>
+`PyTorch` `TensorFlow` `Scikit-learn` `OpenCV` `Ultralytics YOLO` `OpenCLIP`
+
+**MLOps & Cloud**<br>
+`Docker` `Kubernetes` `Kubeflow` `KServe` `GitHub Actions` `MLflow` `AWS EC2` `AWS S3` `Amazon ECR` `SageMaker`
+
+**APIs, Databases & Retrieval**<br>
+`FastAPI` `SQLAlchemy` `PostgreSQL` `MongoDB` `ChromaDB` `FAISS` `BM25`
 
 ## Selected work
 
