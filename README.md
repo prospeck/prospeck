@@ -15,7 +15,15 @@ My recent work spans production RAG, LLM regression testing, safe Text-to-SQL, h
 search, and real-time Windows audio. I am currently focused on **AI/ML engineering roles** where
 model quality and software reliability are treated as one problem.
 
-`Python` · `FastAPI` · `PyTorch` · `OpenCLIP` · `YOLO` · `FAISS` · `PostgreSQL` · `Docker` · `GitHub Actions`
+## Technical skills
+
+| Area | Technologies |
+| --- | --- |
+| **Programming** | Python, SQL |
+| **Generative AI & Agentic Systems** | RAG, AI agents, LangChain, LangGraph, MCP, Ollama, vLLM, prompt engineering, LLM evaluation with DeepEval and RAGAS |
+| **Machine Learning & Computer Vision** | PyTorch, TensorFlow, Scikit-learn, OpenCV, Ultralytics YOLO, OpenCLIP |
+| **MLOps & Cloud** | Docker, Kubernetes, Kubeflow, KServe, GitHub Actions, MLflow, AWS EC2, S3, ECR and SageMaker |
+| **APIs, Databases & Retrieval** | FastAPI, SQLAlchemy, PostgreSQL, MongoDB, ChromaDB, FAISS, BM25 |
 
 ## Selected work
 
@@ -59,14 +67,13 @@ verification.
 
 `C/C++` · `Python` · `Qt` · `WASAPI` · `real-time audio`
 
-## How I build
+### [MLOps Phishing Detection Platform](https://github.com/prospeck/Network-Security)
 
-- **Measure first:** establish golden datasets, latency percentiles, coverage, and failure modes.
-- **Design for failure:** graceful abstention, read-only boundaries, retries, audit logs, and
-  deterministic test doubles.
-- **Keep claims honest:** separate local checks, real-model runs, hosted CI, and hardware proof.
-- **Ship reproducibly:** typed contracts, Docker, health endpoints, documentation, and automated
-  quality gates.
+End-to-end network-security ML pipeline for phishing URL detection, achieving **98.8% accuracy on
+11K+ samples** with a Random Forest model. Automated validation, training, containerization,
+model versioning, and deployment across Amazon ECR, EC2, and S3.
+
+`machine learning` · `MLOps` · `AWS` · `Docker` · `GitHub Actions` · `MLflow`
 
 ## Activity
 
@@ -78,4 +85,3 @@ verification.
 
 <sub>The activity panel is generated inside this repository from GitHub's GraphQL API. No
 third-party badge service, tracking pixel, or external image host is used.</sub>
-
